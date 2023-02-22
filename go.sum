@@ -1,5 +1,5 @@
-github.com/automuteus/automuteus/v7 v7.4.4 h1:gVZu2QyZjOXBYlWztcn7AeqK5ARowSYdAIjCdZeEsH4=
-github.com/automuteus/automuteus/v7 v7.4.4/go.mod h1:gHnBjIgEqadZjK6pnXt7nlQ0gnlHVsJwvLGj/7FReFc=
+github.com/automuteus/automuteus/v8 v8.1.0 h1:G+DXntL/zBSzYs5STsTVVqonBgorVMdaikDN/j9RM4s=
+github.com/automuteus/automuteus/v8 v8.1.0/go.mod h1:dLSeFHqkLjRc/1kdizh+fYlu8HUST1YElWQUn+g+9yE=
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 h1:EGx4pi6eqNxGaHF6qqu48+N2wcFQ5qg5FXgOdqsJ5d8=
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
